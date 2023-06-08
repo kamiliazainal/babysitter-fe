@@ -1,4 +1,9 @@
-# kiddocare-fe
+# babysitter-fe
+
+- Frontend for babysitter-be
+- Vue 3 with Typesript
+- Use Axios
+- For Kiddocare task
 
 ## Project setup
 ```
